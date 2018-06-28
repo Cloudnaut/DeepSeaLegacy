@@ -1,4 +1,5 @@
 # DeepSeaLegacy
+# Initially created: February 2015
 
 Packetaufbau
 
